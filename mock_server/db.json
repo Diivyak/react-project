@@ -1,0 +1,29 @@
+{
+    "products": [
+        {
+            "id":1,
+            "title": "Apple iPhone 14",
+            "price": 100000
+        },
+        {
+            "id":2,
+            "title": "Samsung Galaxy Note 10",
+            "price": 70000
+        },
+        {
+            "id":3,
+            "title": "Nokia 110",
+            "price": 3000
+        },
+        {
+            "id":4,
+            "title": "Apple iPhone 13",
+            "price": 70000
+        },
+        {
+            "id":5,
+            "title": "Google Pixel 7",
+            "price": 85000
+        }
+    ]
+}
